@@ -222,7 +222,7 @@ const About = () => {
         </p>
         <div className="flex justify-center mt-2">
           <a
-            href="https://github.com/"
+            href="https://github.com/arpit15006/Monad-PingPong-Arena.git"
             target="_blank"
             rel="noreferrer"
             className="inline-flex items-center gap-1 hover:text-monad-300 transition-colors"
