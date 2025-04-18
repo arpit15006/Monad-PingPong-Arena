@@ -129,4 +129,4 @@ monad-pingpong/
 
 ---
 
-Built with ❤️ for the Namespacecom hackathon 2025.
+Built with ❤️ for the Namespace Hackhazards hackathon 2025.
