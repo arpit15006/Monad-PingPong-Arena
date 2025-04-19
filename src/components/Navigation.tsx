@@ -108,9 +108,6 @@ const Navigation = () => {
                   </Button>
                 </DropdownMenuTrigger>
                 <DropdownMenuContent align="end" className="w-56 enhanced-glass gradient-border">
-                  <div className="px-2 py-1.5 text-sm font-medium">
-                    Balance: {parseFloat(balance).toFixed(4)} MON
-                  </div>
                   <DropdownMenuItem
                     className="flex items-center cursor-pointer"
                     onClick={() => window.open(`https://testnet.monadexplorer.com/address/${address}`, '_blank')}
