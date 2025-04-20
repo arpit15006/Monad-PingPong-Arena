@@ -88,9 +88,9 @@ The project serves both traditional gamers looking for new experiences and crypt
 
 ## ✅ Tasks & Bonus Checklist
 
-- [✅] **All members of the team completed the mandatory task - Followed at least 2 of our social channels and filled the form**
-- [✅] **All members of the team completed Bonus Task 1 - Sharing of Badges and filled the form (2 points)**
-- [✅] **All members of the team completed Bonus Task 2 - Signing up for Sprint.dev and filled the form (3 points)**
+- [✅] **Member of the team completed the mandatory task - Followed at least 2 of our social channels and filled the form**
+- [✅] **Member of the team completed Bonus Task 1 - Sharing of Badges and filled the form (2 points)**
+- [✅] **Member of the team completed Bonus Task 2 - Signing up for Sprint.dev and filled the form (3 points)**
 
 ---
 
