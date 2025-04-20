@@ -20,7 +20,7 @@ The project serves both traditional gamers looking for new experiences and crypt
 
 ---
 
-## 🧠 Me & Approach
+## 🧠 Myself & Approach
 
 ### Solo Developer:
 - Arpit Patel
@@ -81,9 +81,9 @@ The project serves both traditional gamers looking for new experiences and crypt
 
 ## 📽️ Demo & Deliverables
 
-- **Demo Video Link:** [Monad Ping Pong Arena Demo:](https://youtu.be/CEihnOZ1iQM)
-- **Live Demo:** [Deployed Link:](https://monad-pingpong-arena.vercel.app)
-- **Explorer Link:** [Contract Address:](https://testnet.monadexplorer.com/address/0x88282cc7c75c3726c7e09e73954dc34bff8731dc)
+- **Demo Video Link:** [Monad Ping Pong Arena Demo (Youtube)](https://youtu.be/CEihnOZ1iQM)
+- **Live Demo:** [Deployed Link](https://monad-pingpong-arena.vercel.app)
+- **Explorer Link:** [Contract Address (View on MONAD Explorer)](https://testnet.monadexplorer.com/address/0x88282cc7c75c3726c7e09e73954dc34bff8731dc)
 ---
 
 ## ✅ Tasks & Bonus Checklist
