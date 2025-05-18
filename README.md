@@ -1,14 +1,11 @@
-![github-submission-banner](https://github.com/user-attachments/assets/a1493b84-e4e2-456e-a791-ce35ee2bcf2f)
-
 # 🚀 Monad PingPong Arena
 
 > Where blockchain meets competitive gaming - stake MON, battle opponents, collect NFTs with real utility, and climb the leaderboard in this Web3 arcade revolution.
 
 ---
 
-## 📌 Problem Statement
 
-**Problem Statement:Create an engaging blockchain game leveraging Monad's high-performance smart contract platform**
+Create an engaging blockchain game leveraging Monad's high-performance smart contract platform**
 
 ---
 
